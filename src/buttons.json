@@ -1,0 +1,103 @@
+[
+  {
+    "tileName": "AC",
+    "value": "AC",
+    "type": "operator"
+  },
+  {
+    "tileName": "CE",
+    "value": "CE",
+    "type": "operator"
+  },
+  {
+    "tileName": "C",
+    "value": "C",
+    "type": "operator"
+  },
+  {
+    "tileName": "%",
+    "value": "%",
+    "type": "operator"
+  },
+
+  {
+    "tileName": "7",
+    "value": "7",
+    "type": "number"
+  },
+  {
+    "tileName": "8",
+    "value": "8",
+    "type": "number"
+  },
+  {
+    "tileName": "9",
+    "value": "9",
+    "type": "number"
+  },
+  {
+    "tileName": "*",
+    "value": "*",
+    "type": "operator"
+  },
+  {
+    "tileName": "4",
+    "value": "4",
+    "type": "number"
+  },
+  {
+    "tileName": "5",
+    "value": "5",
+    "type": "number"
+  },
+  {
+    "tileName": "6",
+    "value": "6",
+    "type": "number"
+  },
+  {
+    "tileName": "-",
+    "value": "-",
+    "type": "operator"
+  },
+  {
+    "tileName": "1",
+    "value": "1",
+    "type": "number"
+  },
+  {
+    "tileName": "2",
+    "value": "2",
+    "type": "number"
+  },
+  {
+    "tileName": "3",
+    "value": "3",
+    "type": "number"
+  },
+  {
+    "tileName": "+",
+    "value": "+",
+    "type": "operator"
+  },
+  {
+    "tileName": "00",
+    "value": "00",
+    "type": "operator"
+  },
+  {
+    "tileName": "0",
+    "value": "0",
+    "type": "number"
+  },
+  {
+    "tileName": ".",
+    "value": ".",
+    "type": "operator"
+  },
+  {
+    "tileName": "=",
+    "value": "=",
+    "type": "operator"
+  }
+]
